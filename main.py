@@ -1,1 +1,9 @@
-print('main lesson3.3')
+import pygame
+
+pygame.init()
+
+runing = True
+while runing
+    pass
+
+pygame.quit()
